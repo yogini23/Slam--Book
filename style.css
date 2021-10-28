@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Old+Mincho&display=swap')
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Zen Kurenaido', sans-serif;
+    background-image: url(https://cdn.pixabay.com/photo/2018/05/13/17/08/notebook-3397135__340.jpg);
+    background-size: cover;
+    text-align: center;
+}
+div{
+    background-color: rgb(207 , 190 , 190);
+    margin: 2% 10%;
+    padding: 50px;
+    opacity: 0.7;
+    border-radius: 20px;
+}
+h1{
+    font-size: 50px;
+    color: rgb(9 , 93 , 3);
+    font-family: 'Times New Roman', Times, serif;
+}
+label{
+    font-size: 20px;
+}
+#question{
+    font-weight: 600;
+}
+textarea{
+    width: 300px;
+    height: 100px;
+    color: deeppink;
+}
+
+
+
+
